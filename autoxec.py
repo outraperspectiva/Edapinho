@@ -1,3 +1,6 @@
+# License: LICENÇA DO PROJETO
+# Author: Fábio Ferraz Fernandez
+
 import time
 import picamera
 

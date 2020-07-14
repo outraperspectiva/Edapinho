@@ -1,4 +1,4 @@
-# License: LICENÇA DO PROJETO
+# License: gpl
 # Author: Daniel Sundfeld
 
 #!/bin/sh

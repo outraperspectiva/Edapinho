@@ -1,4 +1,4 @@
-# License: LICENÇA DO PROJETO
+# License: GLP
 # Author: Fábio Ferraz Fernandez
 
 import time

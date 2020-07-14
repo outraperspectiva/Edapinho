@@ -1,0 +1,10 @@
+# License: LICENÇA DO PROJETO
+# Author: Daniel Sundfeld
+
+[Desktop Entry]
+Type=Application
+Name=RPi-infoscreen
+Comment=Kivy RPI Infoscreen
+NoDisplay=false
+Exec=/usr/bin/lxterminal -e /home/pi/autoexec.sh
+NotShowIn=GNOME;KDE;XFCE;

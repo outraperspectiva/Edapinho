@@ -1,5 +1,5 @@
 # License: GLP
-# Author: Fábio Ferraz Fernandez
+# Authors: Fábio Ferraz Fernandez e Luiz Jorge Mir Filho
 
 import time
 import picamera
